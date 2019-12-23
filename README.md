@@ -298,7 +298,7 @@ their information gain.
 
 ![The Pearson Product-Moment Correlation matrix across each numerical
 attribute of interest in the Airbnb
-data](airbnb_sg_1119_files/figure-markdown_github/unnamed-chunk-2-1.png)
+data](figure-markdown_github/unnamed-chunk-2-1.png)
 
 The study began by inspecting the pearson product-moment correlation
 matrix (Figure 2) computed over each numerical attribute of interest.
@@ -317,7 +317,7 @@ that the variables could contribute to the success of a listing.
 ![Distributions of log-transformed revenues within each neighbourhood of
 Singapore. The colors indicate which region each neighbourhood belongs
 to (Red:Central, Yellow:East, Green:North, Blue:North-East,
-Pink:West)](airbnb_sg_1119_files/figure-markdown_github/unnamed-chunk-3-1.png)
+Pink:West)](figure-markdown_github/unnamed-chunk-3-1.png)
 
 Next, the distributions of revenue within each Singaporean neighbourhood
 was inspected. The revenues were log-transformed due to the extreme
@@ -376,13 +376,13 @@ explainability *R*<sup>2</sup> to 0.1819. These results imply that there
 are other factors at play when determining the success of a listing.
 
 ![Estimated revenue vs
-reputation](airbnb_sg_1119_files/figure-markdown_github/unnamed-chunk-4-1.png)
+reputation](figure-markdown_github/unnamed-chunk-4-1.png)
 
 ![Estimated revenue vs number of offered
-amenities](airbnb_sg_1119_files/figure-markdown_github/unnamed-chunk-5-1.png)
+amenities](figure-markdown_github/unnamed-chunk-5-1.png)
 
 ![Estimated revenue vs host’s level of
-experience](airbnb_sg_1119_files/figure-markdown_github/unnamed-chunk-6-1.png)
+experience](figure-markdown_github/unnamed-chunk-6-1.png)
 
 **RQ2. Relative performance among Singaporean neighbourhoods**
 
